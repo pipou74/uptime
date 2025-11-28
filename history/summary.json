@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "time": 77,
+    "timeDay": 77,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
     "dailyMinutesDown": {}
   },
   {
     "name": "Pipouhome",
-    "url": "https://jellyfin.adrienvc.uk",
-    "icon": "https://icons.duckduckgo.com/ip3/jellyfin.adrienvc.uk.ico",
+    "url": "https://vpn.adrienvc.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/vpn.adrienvc.uk.ico",
     "slug": "pipouhome",
     "status": "down",
     "uptime": "0.00%",
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 428
     }
   },
   {
