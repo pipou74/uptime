@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Pipouhome
-    url: https://jellyfin.adrienvc.uk
+    url: https://vpn.adrienvc.uk
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
